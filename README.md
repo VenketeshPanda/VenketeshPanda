@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://tenor.com/view/programmer-gif-19019116" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" height="175px"/></a>
 
 
 
