@@ -4,24 +4,22 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Venketesh</h1>
-<h3 align="center">I'm a passionate Android developer from India.</h3>
+<h3 align="center">I'm a passionate Backend developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Chat Application
+- 🔭 I’m currently working at Solera,Inc.
 
-- 🌱 I’m currently learning Android dev and DSA
+- 🌱 I’m currently learning Nodejs and DSA
 
-- 👯 I’m looking to collaborate on Android development
+- 👯 I’m looking to collaborate on Backend development
 
-- 🤔 I’m looking for help with Flutter and Native app dev
-
-- 💬 Ask me about Basic DSA and getting started with Android dev
+- 💬 Ask me about DSA and Java SpringBoot and Nodejs.
 
 - 📫 How to reach me: Twitter: https://twitter.com/VenketeshPanda
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 ## 🚀 Languages and Tools:
 
