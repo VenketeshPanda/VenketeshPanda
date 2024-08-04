@@ -21,15 +21,7 @@
 
 - 😄 Pronouns: He/Him
 
-## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
-    <a href="https://firebase.google.com/?gclid=Cj0KCQiA95aRBhCsARIsAC2xvfzZhoAK5mrotivuO_eAGiL6YxVxb8j3ZTcQHVFmw89mk2mgC84wa4caAl6bEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-
-</p>
 
 
 
