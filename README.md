@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Venketesh</h1>
-<h3 align="center">I'm a passionate Backend developer from India.</h3>
+<h3 align="center">Software Engineer :).</h3>
 
 
 ## 🙋‍♂️ About Me
